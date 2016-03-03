@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeinatticarep00trgoog_0010.png"; bbox 0 0 2684 4508; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 1498 1096 1592">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 1498 1096 1592">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 1498 1096 1592; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 236 1499 413 1590; x_wconf 86' lang='grc' dir='ltr'>ΟΡΤΙΜΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 448 1498 509 1591; x_wconf 74' lang='lat' dir='ltr'>Ao</span> <span class='ocrx_word' id='word_1_3' title='bbox 544 1498 879 1592; x_wconf 77' lang='lat' dir='ltr'>DILEGTISSIMI</span> <span class='ocrx_word' id='word_1_4' title='bbox 916 1501 1096 1592; x_wconf 77' lang='lat' dir='ltr'><strong>PATRIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 592 1750 739 1817">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 592 1750 739 1817">
+     <span class='ocr_line' id='line_1_2' title="bbox 592 1750 739 1817; baseline 0.014 -2"><span class='ocrx_word' id='word_1_5' title='bbox 592 1750 739 1817; x_wconf 80' lang='lat' dir='ltr'><strong>MANIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 416 1964 911 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 416 1964 911 2042">
+     <span class='ocr_line' id='line_1_3' title="bbox 416 1964 911 2042; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 416 1964 514 2040; x_wconf 85' lang='lat' dir='ltr'>HOC</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 1965 675 2040; x_wconf 86' lang='lat' dir='ltr'>OPUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 707 1966 911 2042; x_wconf 84' lang='lat' dir='ltr'>DIGAVIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 602 2189 726 2246">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 602 2189 726 2246">
+     <span class='ocr_line' id='line_1_4' title="bbox 602 2189 726 2246; baseline 0.008 -2"><span class='ocrx_word' id='word_1_9' title='bbox 602 2189 726 2246; x_wconf 82' lang='lat' dir='ltr'>FILIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 465 3021 862 3342">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 465 3021 934 3342">
+     <span class='ocr_line' id='line_1_5' title="bbox 465 3021 862 3342; baseline 0.026 -69"><span class='ocrx_word' id='word_1_10' title='bbox 465 3021 862 3342; x_wconf 41' lang='lat'>7505?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1346 4508">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1346 4508">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1346 4508; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1346 4508; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
